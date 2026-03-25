@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.alsp"
+    namespace = "com.hxl.alsp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.alsp"
+        applicationId = "com.hxl.alsp"
         minSdk = 28
         targetSdk = 35
         versionCode = 1
